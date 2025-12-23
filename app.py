@@ -356,7 +356,7 @@ def main():
 
     # Sidebar
     with st.sidebar:
-        st.image("https://raw.githubusercontent.com/yacineallam/cac40-prediction/main/assets/logo.png", width=100)
+        st.markdown("## 📈")
         st.markdown("### ⚙️ Configuration")
 
         # Sélection de la période
@@ -389,7 +389,7 @@ def main():
         st.markdown("""
         **Yacine ALLAM**
         Étudiant Ingénieur Data Science
-        [LinkedIn](https://linkedin.com/in/yacine-allam) | [GitHub](https://github.com/yacineallam)
+        [LinkedIn](https://www.linkedin.com/in/yacineallam/) | [GitHub](https://github.com/YACINE-CODE16)
         """)
 
     # Chargement des données
@@ -581,8 +581,8 @@ def main():
             ESIEA Paris
 
             📧 yacineallam00@gmail.com
-            🔗 [LinkedIn](https://linkedin.com/in/yacine-allam)
-            💻 [GitHub](https://github.com/yacineallam)
+            🔗 [LinkedIn](https://www.linkedin.com/in/yacineallam/)
+            💻 [GitHub](https://github.com/YACINE-CODE16)
 
             ---
 
